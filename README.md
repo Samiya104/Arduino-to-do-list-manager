@@ -1,5 +1,5 @@
 This project has 2 parts to it.
-Part 1: SOftware implementation
+Part 1: Software implementation
 Part 2: Arduino Uno GUI
 
 # Part 1: Software implementation
